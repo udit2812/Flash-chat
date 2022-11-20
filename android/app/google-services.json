@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209679147090",
+    "project_id": "flash-chat-1492a",
+    "storage_bucket": "flash-chat-1492a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209679147090:android:59009beb1592edcfeb7f8b",
+        "android_client_info": {
+          "package_name": "co.dhawanudit.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209679147090-ir5n1obc230m7r8vcrcis0vfmrfnhp25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSW5LkOtubFFMd13JmoPcSZ4zGuNnXtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209679147090-ir5n1obc230m7r8vcrcis0vfmrfnhp25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
